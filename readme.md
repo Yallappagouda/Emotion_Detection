@@ -109,4 +109,12 @@ Press any key to close the window after viewing.
 
 Built with ❤ during AI/ML Workshop, MCE.
 
+## OUTPUT
+![image](https://github.com/user-attachments/assets/ec741eac-6583-43d1-8b00-9da0279b8fa0)
+
+![image](https://github.com/user-attachments/assets/9172653a-e44c-4dc8-9dd8-8a0b5a516461)
+
+
+
+
 ---
