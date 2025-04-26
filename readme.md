@@ -7,20 +7,7 @@ It detects emotions (Happy, Sad, Neutral, Angry, Surprise, Fear, Disgust) from r
 
 ## 📂 Project Structure
 
-
-emotion_detector/
-├── data/               # Folder to store CSV or datasets
-├── models/             # Saved Keras model (emotion_model.h5)
-├── src/                # Source code modules
-│   ├── training/                   
-│   │    ├── data_loader.py
-│   │    ├── model_builder.py
-│   │    ├── trainer.py
-│   │    └── visualizer.py
-│   ├── config.py
-│   ├── predictor.py
-├── main.py             # CLI to train and predict
-├── requirements.txt    # Python dependencies
+![image](https://github.com/user-attachments/assets/69988744-6e06-4359-8153-8ca76c4bd108)
 
 
 ---
