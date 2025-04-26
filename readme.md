@@ -39,28 +39,7 @@ python main.py train --csv_path data/emotions.csv
 - Plot training vs validation accuracy
 
 
-+---------------------------+
-|     Input: (48x48 image)   |
-+---------------------------+
-             ↓
-+---------------------------+
-|     Flatten Layer          |
-| (48x48 → 2304 values)      |
-+---------------------------+
-             ↓
-+---------------------------+
-| Dense Layer (128 neurons) |
-| Activation: ReLU          |
-+---------------------------+
-             ↓
-+---------------------------+
-| Dense Layer (7 neurons)   |
-| Activation: Softmax       |
-+---------------------------+
-             ↓
-+---------------------------+
-|    Output: Emotion        |
-+---------------------------+
+![image](https://github.com/user-attachments/assets/41477650-1f56-47fb-b0b8-d475fd9f4703)
 
 
 ---
